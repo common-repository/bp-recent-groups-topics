@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Project-Id-Version: BP recent groups topics widget\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: bgextensions <bgextensions@bgextensions.com>\n"
+"Language-Team: bgextensions <bgextensions@bgvhod.com>\n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Language: Bulgarian\n"
+"X-Poedit-Country: BULGARIA\n"
+
+#. Text in echo
+#: bp-recent-groups-topics.php:224
+msgid "Freshness author avatar size in px"
+msgstr "Размер на аватара на новите автори в px"
+
+#. Text in echo
+#: bp-recent-groups-topics.php:244
+msgid "Give credit to plugin author?"
+msgstr "Показване линк на разработчиците?"
+
+#. Text in echo
+#: bp-recent-groups-topics.php:212
+msgid "Group avatar size in px"
+msgstr "Размер на аватара на групата в px"
+
+#. Text in echo
+#: bp-recent-groups-topics.php:176
+msgid "Number of topics to display"
+msgstr "Брой на темите, които да се показват"
+
+#. Text in echo
+#: bp-recent-groups-topics.php:200
+msgid "Poster avatar size in px"
+msgstr "Размер на аватара на автора на темата"
+
+#. Text in echo
+#: bp-recent-groups-topics.php:188
+msgid "Show excerpt?"
+msgstr "Покажи съкратено съдържание?"
+
+#. Text in echo
+#: bp-recent-groups-topics.php:220
+msgid "Show freshness author avatar?"
+msgstr "Покажи аватара на последния автор?"
+
+#. Text in echo
+#: bp-recent-groups-topics.php:216
+msgid "Show freshness author?"
+msgstr "Покажи последния публикувал автор?"
+
+#. Text in echo
+#: bp-recent-groups-topics.php:208
+msgid "Show group avatar?"
+msgstr "Покажи аватара на групата?"
+
+#. Text in echo
+#: bp-recent-groups-topics.php:204
+msgid "Show group name?"
+msgstr "Покажи името на групата?"
+
+#. Text in echo
+#: bp-recent-groups-topics.php:196
+msgid "Show poster avatar?"
+msgstr "Покажи аватара на създателя на темата?"
+
+#. Text in echo
+#: bp-recent-groups-topics.php:192
+msgid "Show poster?"
+msgstr "Покажи създателя на темата?"
+
+#. Text in echo
+#: bp-recent-groups-topics.php:228
+msgid "Show since date?"
+msgstr "Покажи датата на последната публикация?"
+
+#. Text in echo
+#: bp-recent-groups-topics.php:240
+msgid "Show total posts?"
+msgstr "Покажи броя на всички публикации?"
+
+#. Text in echo
+#: bp-recent-groups-topics.php:232
+msgid "Topics by groups slug (comma separated). Leave blank for all."
+msgstr "Само теми от групите (group slug). Остави празно за всички или ги разделяй със запетаи."
+
+#. Text in echo
+#: bp-recent-groups-topics.php:236
+msgid "Topics by users slug (comma separated). Leave blank for all."
+msgstr "Само теми от потребителите (въведи user slug, разделени със запетая). Остави празно за всички."
+
+#. Text in echo
+#: bp-recent-groups-topics.php:89
+msgid "freshness author"
+msgstr "Последен автор"
+
+#. Text in echo
+#: bp-recent-groups-topics.php:102
+msgid "total posts: "
+msgstr "Общо публикации: "
+

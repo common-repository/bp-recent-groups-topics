@@ -1,0 +1,66 @@
+/*
+Default CSS Styles for the bprft_widget plug-in
+Version 1.0.0
+*/
+div#bprft {
+	margin:0;
+	padding:0;
+}
+#bprft a:link, #bprft a:visited  {
+	text-decoration:none !important;
+	border:none;
+	background:none;
+	display:inline;
+	padding: 0 0 0 5px;
+	margin:0;
+	line-height: 1.5em !important;
+}
+#bprft ul li a:hover  {
+	background-color:none !important;
+	background-image:none;
+	background:none;
+}
+#bprft a.topic-title {
+	font-weight:bold;
+	padding: 0 0 0 0 !important;
+	line-height:1.8em;
+}
+#bprft span.topic-excerpt {
+	font-weight:normal;
+	font-style:italic;
+	line-height: 1.8em;
+}
+#bprft ul li {
+	list-style: none;
+	background: url(../images/discuss_icon.png);
+	background-repeat: no-repeat;
+	background-position: 0 10px;
+	padding: 5px 0px 5px 25px;
+}
+div#bprft-extrainfo {
+	background: url(../images/extra-bck.jpg);
+	background-repeat: repeat-x;
+	font-size:small;
+	padding:10px;
+	line-height: 1.5em !important;
+	border: 1px #E0E0E0 solid;
+}
+span.topic-by {
+	font-size:small;
+}
+span.topic-in {
+	font-size:small;
+}
+span.freshness-author {
+	font-size:small;
+}
+span.time-since {
+	font-size:small;
+}
+span.post-count {
+	font-size:small;
+	font-weight:bold;
+}
+.authorcredit {
+	font-size:small;
+}
